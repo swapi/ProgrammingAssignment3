@@ -12,6 +12,7 @@ Apart from generating merged files, tidy dataset containing average of each vari
 for each activity and each subject is also generaed in file `dataset/tidy/final_tidy.txt`.
 
 Following are variables in the tidy dataset:
+```
 1. Subject - Subject id
 2. Activity - Name of activity
 3. Average of tBodyAcc-mean()-X per subject per activity
@@ -80,6 +81,7 @@ Following are variables in the tidy dataset:
 66. Average of fBodyBodyGyroMag-std() per subject per activity
 67. Average of fBodyBodyGyroJerkMag-mean() per subject per activity
 68. Average of fBodyBodyGyroJerkMag-std() per subject per activity
+```
 
 Data Processing
 ===============
